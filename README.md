@@ -13,7 +13,7 @@ It includes two levels:
     * Make sure you have a column for date/time, city, state, country, shape, and comment.
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
-![]()
+![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/UFO-level-1_automatic_table_load_sm.png)
 
 ## Level 2: Multiple Search Categories
 

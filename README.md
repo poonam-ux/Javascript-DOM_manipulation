@@ -41,3 +41,8 @@ Dropdown items for Country:
 
 ![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/ufo_level_2_dropdown_country_sm.png)
 
+Dropdown items for Shapes:
+
+![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/ufo_level_2_dropdown_shapes_sm.png)
+
+

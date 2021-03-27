@@ -13,7 +13,8 @@ It includes two levels:
     * Make sure you have a column for date/time, city, state, country, shape, and comment.
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
-* Level_1 Automatic Table Loading:
+
+Level_1 Automatic Table Loading:
 
 ![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/UFO-level-1_automatic_table_load_sm.png)
 
@@ -31,7 +32,8 @@ Filter Table by date selected by user:
     * country
     * shape
 
-* Level_2 Multiple Search Fields:
+
+Level_2 Multiple Search Fields:
 
 ![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/UFO_level_2_input_and_dropdown_fileds_sm.png)
 

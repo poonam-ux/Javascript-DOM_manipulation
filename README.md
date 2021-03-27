@@ -37,4 +37,7 @@ Level_2 Multiple Search Fields:
 
 ![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/UFO_level_2_input_and_dropdown_fileds_sm.png)
 
-![]()
+Dropdown items for Country: 
+
+![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/ufo_level_2_dropdown_country_sm.png)
+

@@ -45,4 +45,8 @@ Dropdown items for Shapes:
 
 ![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/ufo_level_2_dropdown_shapes_sm.png)
 
+Filtered Table with user inputs for date and shape:
+
+![](https://github.com/poonam-ux/javascript-challenge_DOM_manipulation/blob/main/Images/ufo_level_2_filtered_table_by_date_shape_sm.png)
+
 
